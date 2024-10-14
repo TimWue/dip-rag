@@ -1,0 +1,9 @@
+jupyter
+requests
+langchain
+langchain-chroma
+langchain-community
+langchain-huggingface
+langchain-ollama
+langchain-openai
+python-dotenv
